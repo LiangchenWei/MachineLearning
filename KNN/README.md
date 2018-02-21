@@ -1,1 +1,1 @@
-This is an implementation method of KNN Arithmetic 
+This is an implementation method of KNN Algorithm  
